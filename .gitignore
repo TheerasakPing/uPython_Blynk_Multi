@@ -23,7 +23,6 @@ _BLYNK_AUTH.py
 credentials.py
 
 # CI/CD generated files
-.github/
 dist/
 build/
 *.log
